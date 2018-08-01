@@ -24,6 +24,9 @@ function sayHiToGrandma(string) {
   }
 }
 
+var string = "Hi Grandma, how are you?"
+
+logShout("Hi Grandma, how are you?");
 
 
 
